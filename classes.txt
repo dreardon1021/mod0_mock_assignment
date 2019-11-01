@@ -1,0 +1,32 @@
+Class: boat
+
+Attributes:
+color (string)
+horsePower (integer)
+totalHumanCapacity (integer)
+totalGasCapacity (integer)
+hasAwning (boolean)
+currentHumanCount(integer)
+currentGasAmount (integer)
+
+
+
+
+
+
+
+Methods:
+humanCapacityRemaining
+    totalHumanCapacity - currentHumanCount
+
+gasPercentFull
+    currentGasAmount / totalGasCapacity
+
+changeColor
+    changes boat color
+
+addHorsePower
+    adds more horsePower to the boat
+
+checkAwning
+    checks to see if the boat has an awning
