@@ -1,0 +1,62 @@
+Making A Sandwich
+
+1.1 Get to and operate Refrigerator
+  1.1.1 Walk to Refrigerator
+    1.1.1.1 Pick up left leg
+    1.1.1.2 Step forward
+    1.1.1.3 Pick up right leg
+    1.1.1.4 Step forward
+    1.1.1.5 continue process until destination reached.
+  1.1.2 Open Refrigerator
+    1.1.2.1 Open Hand
+    1.1.2.2 Reach out with right hand
+    1.1.2.3 Locate Handle
+    1.1.2.4 Put open hand on Handle
+    1.1.2.5 Close hand around handle
+    1.1.2.6 Pull open Refrigerator door
+1.2 Gather ingredients
+    1.2.1 Locate Ham
+    1.2.2 Grab Ham
+    1.2.3 Locate Cheese
+    1.2.4 Grab Cheese
+    1.2.5 Locate Mayo
+    1.2.6 Grab Mayo
+    1.2.7 Locate Bread
+    1.2.8 Grab Bread
+    1.2.9 Locate Counter space
+    1.2.10 Walk to counter space
+     1.2.10.1 Pick up left leg
+     1.2.10.2 Step forward
+     1.2.10.3 Pick up right leg
+     1.2.10.4 Step forward
+     1.2.10.5 continue process until destination reached.
+    1.2.11 Place ingredients on counter top
+1.3 Construct Sandwich
+  1.3.1 Open Bread
+  1.3.2 Pull out two pieces of Bread
+    1.3.2.1 Reach in to bread bag
+    1.3.2.2 Open hand
+    1.3.2.3 Grab first piece
+    1.3.2.4 Place on Counter
+    1.3.2.5 Reach into bread bag
+    1.3.2.6 Open hand
+    1.3.2.7 Grab second piece of Bread
+    1.3.2.8 place on Counter
+  1.3.3 Spread Mayo on Bread
+    1.3.3.1 Locate knife
+    1.3.3.2 Pick up knife
+    1.3.3.3 Open Mayo
+    1.3.3.4 Put knife in mayo jar and get some mayo on knife
+    1.3.3.5 Spread mayo on Bread
+  1.3.4 Place Ham on sandwich
+    1.3.4.1 open ham container
+    1.3.4.2 grab Ham
+    1.3.4.3 place ham on bread/Mayo
+  1.3.5 Place cheese on sandwich
+    1.3.5.1 open cheese container
+    1.3.4.2 grab Cheese
+    1.3.4.3 place cheese on bread/mayo/Ham
+  1.3.6 Close sandwich
+    1.3.6.1 pick up one piece of Bread
+    1.3.6.2 place bread on other half meat side up
+  1.4 Eat sandwich
